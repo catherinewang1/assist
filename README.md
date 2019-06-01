@@ -7,10 +7,10 @@ Version: 3.1.4
 
 Title: A Suite of R Functions Implementing Spline Smoothing Techniques
 
-Author: Yuedong Wang <yuedong@pstat.ucsb.edu>, and
- Chunlei Ke <chunlei_ke@yahoo.com>.
+Author: Yuedong Wang <yuedong(at)pstat.ucsb.edu>, and
+ Chunlei Ke <chunlei_ke(at)yahoo.com>.
  
-Maintainer: Yuedong Wang <yuedong@pstat.ucsb.edu>
+Maintainer: Yuedong Wang <yuedong(at)pstat.ucsb.edu>
 
 Depends: R (>= 3.0.2), nlme, lattice
 
